@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/INFOTCH/deployment/_apis/build/status/gituser1219.pipelines-java?branchName=master)](https://dev.azure.com/INFOTCH/deployment/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
